@@ -1,0 +1,15 @@
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\CodeWarChallence.exe
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\CodeWarChallence.deps.json
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\CodeWarChallence.runtimeconfig.json
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\CodeWarChallence.dll
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\ref\CodeWarChallence.dll
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\bin\Debug\net6.0\CodeWarChallence.pdb
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.csproj.AssemblyReference.cache
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.AssemblyInfoInputs.cache
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.AssemblyInfo.cs
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.csproj.CoreCompileInputs.cache
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.dll
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\ref\CodeWarChallence.dll
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.pdb
+C:\Users\kimto\source\repos\CodeWarChallence\CodeWarChallence\obj\Debug\net6.0\CodeWarChallence.genruntimeconfig.cache
